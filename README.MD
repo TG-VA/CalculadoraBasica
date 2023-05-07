@@ -50,4 +50,4 @@ As we can see below, we use the function  [eval()](https://developer.mozilla.org
 ```
 
 ### ✒️  Autor
-- [Tristan Venegas](https://github.com/TristanVenegas "Tristan Venegas") - Front end Developer.
+- [Tristan Venegas](https://github.com/TG-VA "Tristan Venegas") - Front end Developer.
